@@ -33,7 +33,7 @@ The goal of the game is to roll all dice until they show the same number. You ca
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Gauravjass/tenzies.git
+    git clone https://github.com/Gauravjass/Tenzies.git
     cd tenzies
     ```
 
